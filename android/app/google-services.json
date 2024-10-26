@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "322778753757",
+    "project_id": "safaisathi-febc9",
+    "storage_bucket": "safaisathi-febc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322778753757:android:da2f26b857c8e796524934",
+        "android_client_info": {
+          "package_name": "com.example.eventapp_frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr3kEg8B2kbnCxLVg_rCJJhUEZMYSCyhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
